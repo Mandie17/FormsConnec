@@ -1,0 +1,7 @@
+1- Création fichier qui se nomme params.php
+2- Création de 4 variables :
+$servername = Nom du serveur
+$dbname = Nom BDD
+$dbuser = Nom Utilisateur
+$dbpassword = Mot de passsee
+3- Tadaa !!
